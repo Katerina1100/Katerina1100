@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Katerina Trajkovska
 
 Hey there, welcome!
-I’m Katerina, a Junior Front End Developer from Bitola, North Macedonia.
+-I’m Katerina, a Junior Front End Developer from Bitola, North Macedonia.
 
 
 <!---
