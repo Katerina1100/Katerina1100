@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Katerina Trajkovska
 
-Hey there, welcome!
+Hey there, welcome! <br>
 -I’m Katerina, a Junior Front End Developer from Bitola, North Macedonia.
 
 
